@@ -8,7 +8,8 @@
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 		  </button>
-          <a class="navbar-brand" href="{{ site.baseurl }}">{{ site.title }}</a>
+			{% assign url = site.url | append: '/' | append: site.baseurl %}
+          <a class="navbar-brand" href="{{ url }}">{{ site.title }}</a>
 		</div>
 	    <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1" aria-expanded="false" style="height: 1px;">
 			<ul class="nav navbar-nav navbar-right">
