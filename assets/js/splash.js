@@ -52,4 +52,5 @@ function main() {
 }());
 
 }
-main();
+var splash = document.getElementById('intro');
+if (splash != null) { main(); }
