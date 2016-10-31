@@ -64,13 +64,26 @@ body {
     color: rgba(255, 255, 255, 0.8);
 }
 
+#intro .intro-body #splash-ticker {
+    height: 80px;
+}
+
 #intro .intro-body .brand-heading {
     color: #E75926;
-    text-shadow: 2px 2px #a13e1a;
+    /* text-shadow: 2px 2px #a13e1a; */
 }
 
 #intro .intro-body .intro-text {
     font-size: 18px;
+}
+#intro .intro-body hr {
+    border-width: 1px 0px;
+    border-style: dotted none;
+    border-color: rgba(255, 255, 255, 0.35);
+    border-image: none;
+    width: 49px;
+    height: 4px;
+
 }
 
 @media(min-width:768px) {
@@ -81,7 +94,7 @@ body {
 #intro .intro-body .intro-text {
     font-size: 18px;
     letter-spacing: 1px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     color: rgba(255, 255, 255, 0.9);
 }
 }

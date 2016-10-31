@@ -49,6 +49,12 @@ function main() {
     }
 
     initParallax();
+
+    //vticker
+    $(function() {
+  		$('#splash-ticker').vTicker('init', {padding: 4});
+	});
+
 }());
 
 }
