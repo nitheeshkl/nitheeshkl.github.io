@@ -8,7 +8,7 @@ splash:
     ticker:
         - Engineer
         - Creator
-        - Artist
+        - "<span style='font-family: Tangerine, cursive; font-size: 90px;'>Artist</span>"
         - Traveller
         - Sportsman
 ---
