@@ -46,7 +46,7 @@ body {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/intro-bg.jpg) no-repeat center center fixed;
+    background: no-repeat center center fixed;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -94,7 +94,7 @@ body {
 #intro .intro-body .intro-text {
     font-size: 18px;
     letter-spacing: 1px;
-    margin-bottom: 50px;
+    //margin-bottom: 50px;
     color: rgba(255, 255, 255, 0.9);
 }
 }
