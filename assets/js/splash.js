@@ -1,5 +1,5 @@
 
-function main() {
+function splash() {
 
 (function () {
     'use strict';
@@ -18,6 +18,20 @@ function main() {
             }
         });
     });
+
+    // preloader
+    $(window).on('load', function() {
+        // fade out loading animation
+        $("#status").fadeOut("slow");
+
+        // fade out the whole div that covers the webpage
+        $("#preloader").delay(500).fadeOut("slow").remove();
+    });
+
+    //vticker
+    $(function() {
+  		$('#splash-ticker').vTicker('init', {padding: 4});
+	});
 
     // page scroll
     $('a.page-scroll').click(function() {
@@ -50,13 +64,9 @@ function main() {
 
     initParallax();
 
-    //vticker
-    $(function() {
-  		$('#splash-ticker').vTicker('init', {padding: 4});
-	});
-
 }());
 
 }
-var splash = document.getElementById('intro');
-if (splash != null) { main(); }
+
+var splash_div = document.getElementById('intro');
+if (splash_div != null) { splash(); }
