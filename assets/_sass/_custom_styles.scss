@@ -100,7 +100,8 @@ body {
 }
 #intro #intro-btn {
     color: #f6f6f6;
-    background: #cf5022;
+    //background: #cf5022;
+    background: rgba(0,0,0,0); // transparent
     border: 0;
     padding: 12px 24px;
     margin: 0 8px;
