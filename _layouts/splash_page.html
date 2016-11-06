@@ -1,30 +1,38 @@
 ---
 layout: default
 ---
+{% include base_path %}
+
+{% if page.splash %}
+    {% assign splash = page.splash %}
+{% endif %}
 <div id="preloader">
     <div id="status">
         <img src="/assets/img/preloader.gif" height="64" width=64" alt=""/>
     </div>
 </div>
-<div id="intro">
+<div id="intro" style="background-image: url('{{ splash.background }}')">
   <div class="intro-body">
     <div class="container">
       <div class="row">
         <div class="col-md-10 col-md-offset-1">
+            <i class="fa fa-ils fa-5x"></i>
 		  <h1>
+            {% if splash.ticker %}
             <div id="splash-ticker">
                 <ul>
-                    <li><span class="brand-heading">Engineer</span></li>
-                    <li><span class="brand-heading">Creator</span></li>
-                    <li><span class="brand-heading">Artist</span></li>
-                    <li><span class="brand-heading">Sportsman</span></li>
-                    <li><span class="brand-heading">Traveller</span></li>
+                    {% for child in splash.ticker %}
+                    <li><span class="brand-heading">{{ child }}</span></li>
+                    {% endfor %}
                 </ul>
             </div>
+            {% endif %}
 		  </h1>
-        <!-- <p class="intro-text">engineer, creator, artist & then some!</p> -->
-		<hr/>
-        <a href="#about" id="intro-btn" class="btn btn-primary btn-lg page-scroll">
+        <hr/>
+        {% if splash.intro_msg %}
+            <p class="intro-text">{{ splash.intro_msg }}</p> 
+        {% endif %}
+        <a href="#{{ splash.intro_link }}" id="intro-btn" class="btn btn-primary btn-lg page-scroll">
             <i class="fa fa-angle-double-down"></i>
         </a>
         </div>
