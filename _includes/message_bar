@@ -1,20 +1,22 @@
 {% include base_path %}
 
-<div class="message_bar container">
+<div class="container">
+<div class="message_bar">
 {% if include.message %}
     {% assign message = include.message %}
 
     <div class="row"> 
-        <div class="col-md-3">
+        <div class="col-xs-12 col-md-4">
         {% if message.title %}
-            <p id="message_title" class="text-center">{{ message.title }}</p>
+            <p id="message_title" class="text-center"><span id="underline">{{ message.title }}</span></p>
         {% endif %}
         </div>
-        <div class="col-md-9">
+        <div class="col-xs-12 col-md-8">
         {% if message.body %}
             <p id="message_body" class="text-left">{{ message.body }}</p>
         {% endif %}
         </div>
     </div>
 {% endif %}
+</div>
 </div>

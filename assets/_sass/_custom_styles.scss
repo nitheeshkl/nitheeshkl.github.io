@@ -5,7 +5,6 @@
 
 html,
 body {
-    background-color: $gray-dark;
     height: 100%;
     /* the html and body elements cannot have any padding or margin. */
 }
@@ -24,7 +23,7 @@ body {
 #footerWrapper {
     height: $footer-height;
     /* margin-top: 22px; */
-	color: $body-bg;
+	color: $gray-lighter;
     background-color: $gray-darker;
 }
 
@@ -147,8 +146,9 @@ body {
 .message_bar #message_title {
     color: #fff;
     font-size: 50px;
-    height: 100%;
     text-transform: none;
+}
+.message_bar #message_title #underline {
     border-bottom: 1px solid #fff;
 }
 
@@ -158,10 +158,57 @@ body {
     margin-top: 15px;
     margin-bottom: 15px;
     font-family: "Roboto";
+    padding-left: 15px;
 }
 
 .message_bar #message_body b {
     font-family: "Open Sans", sans-serif;
     font-weight: lighter;
     color: $gray-lighter;
+}
+
+#about_wrapper {
+    background-color: $gray-darker;
+}
+
+#about {
+    font-size: $font-size-large;
+    font-weight: lighter;
+}
+
+#about .section_title {
+    color: #fff;
+    padding-bottom: $padding-large-vertical; 
+    margin-bottom: $padding-large-vertical; 
+}
+
+#about .section_title .underline {
+    padding-bottom: 5px;
+    border-bottom: 0.5px solid $gray;
+}
+
+#about .section_subtitle {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#about .section_subtitle .underline {
+    border-bottom: 1px solid $gray;
+}
+
+#about .section_subtitle_special {
+    font-size: $font-size-h3;
+    font-family: "Roboto";
+}
+
+#about .section_subtitle_special #fun_section{
+    background: $body-bg;
+}
+
+#about .section_subtitle_special .underline {
+    border-bottom: 1px solid $gray;
+}
+
+#about strong {
+    font-family: "Roboto";
 }
