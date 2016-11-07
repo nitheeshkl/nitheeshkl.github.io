@@ -61,6 +61,15 @@ intro_message:
         </blockquote>
     </div>
     </div>
+    <div class="row">
+    <div class="col-xs-12 col-md-6">
+        <p class="section_subtitle"> <span class="underline">skills</span></p>
+        <div id="skills">
+        </div>
+    </div>
+    <div class="col-xs-12 col-md-6">
+    </div>
+    </div>
 
 </div>
 </div>
