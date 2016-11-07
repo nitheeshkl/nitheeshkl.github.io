@@ -65,9 +65,13 @@ intro_message:
     <div class="col-xs-12 col-md-6">
         <p class="section_subtitle"> <span class="underline">skills</span></p>
         <div id="skills">
+            <div id="words"></div>
         </div>
     </div>
     <div class="col-xs-12 col-md-6">
+        <div id="slider">
+        {% include carousel %}
+        </div>
     </div>
     </div>
 

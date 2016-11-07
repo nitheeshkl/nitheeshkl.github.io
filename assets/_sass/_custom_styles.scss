@@ -176,6 +176,11 @@ body {
     font-weight: lighter;
 }
 
+#about .row {
+    padding-top: $padding-base-vertical;
+    padding-bottom: $padding-base-vertical;
+}
+
 #about .section_title {
     color: #fff;
     padding-bottom: $padding-large-vertical; 
@@ -211,4 +216,14 @@ body {
 
 #about strong {
     font-family: "Roboto";
+}
+
+#about #skills {
+    padding: 10px;
+    margin: 5px;
+}
+
+#about #slider {
+    padding: 15px;
+    margin: 15px;
 }

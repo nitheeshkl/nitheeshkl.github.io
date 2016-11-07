@@ -105,11 +105,11 @@ function splash() {
       /* ... */
         ];
 
-        $('#skills').jQCloud(words, {
+        $('#words').jQCloud(words, {
             width: 500,
             height: 350,
             removeOverflowing: false,
-            autoResize: true,
+            autoResize: false,
             delay: 10,
         });
     });
