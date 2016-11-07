@@ -5,6 +5,7 @@
 
 html,
 body {
+    background-color: $gray-dark;
     height: 100%;
     /* the html and body elements cannot have any padding or margin. */
 }
@@ -134,4 +135,33 @@ body {
     height: 64px;
     margin: -32px 0 0 -32px;
     padding: 0;
+}
+
+/* message bar */
+.message_bar {
+    vertical-align: middle;
+    padding: 10px;
+    margin: 5px;
+}
+
+.message_bar #message_title {
+    color: #fff;
+    font-size: 50px;
+    height: 100%;
+    text-transform: none;
+    border-bottom: 1px solid #fff;
+}
+
+.message_bar #message_body {
+    color: $gray-light;
+    font-size: 25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-family: "Roboto";
+}
+
+.message_bar #message_body b {
+    font-family: "Open Sans", sans-serif;
+    font-weight: lighter;
+    color: $gray-lighter;
 }
