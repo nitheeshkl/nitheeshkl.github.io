@@ -227,3 +227,14 @@ body {
     padding: 15px;
     margin: 15px;
 }
+
+#portfolio .section_title {
+    color: #fff;
+    padding-bottom: $padding-large-vertical; 
+    margin-bottom: $padding-large-vertical; 
+}
+
+#portfolio .section_title .underline {
+    padding-bottom: 5px;
+    border-bottom: 0.5px solid $gray;
+}

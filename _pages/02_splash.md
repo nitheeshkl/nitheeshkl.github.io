@@ -74,7 +74,14 @@ intro_message:
         </div>
     </div>
     </div>
+</div>
+</div>
+</div><!-- about section -->
 
+<div id="portfolio_wrapper">
+<div class="container">
+<div id="portfolio">
+    <h1 class="section_title text-center"> <span class="underline">Portfolio</span></h1>
 </div>
 </div>
 </div>
