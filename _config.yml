@@ -1,11 +1,12 @@
 # Site Info
-title:              "Nitheesh"
-description:        "The personal website for me & my thoughts, that's it. Can't say anymore..."
+title:              "kln's snippets"
+description:        "brief extracts from the world of kln"
 google_verify:       # Put your Google Verification here
 google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 
 # Author Info
 author_name:        "Nitheesh K L" # Your name here
+author_name_short:  "Nitheesh"
 author_email:       nitheeshkl@gmail.com # Your email here
 author_gravatar:    eca33e4c4234f61ed5ed92d4a8fdb228 # Your Gravatar md5 hash here for logo
 twitter_username:   nitheeshkl # Your Twitter username here
