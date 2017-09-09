@@ -19,9 +19,9 @@ There are times when i get totally frustrated due to some networks limiting my d
 
 For those die hard fans of wget &amp; curl, axel would be an immediate replacement. Its as simple as
 
-
-<blockquote>$axel -n 10 'http://www.kernel.org/pub/linux/kernel/v3.0/linux-3.6.3.tar.bz2'</blockquote>
-
+```bash
+axel -n 10 'http://www.kernel.org/pub/linux/kernel/v3.0/linux-3.6.3.tar.bz2'
+```
 
 this starts 10 simultaneous connections to get the files from the server.
 
@@ -35,9 +35,9 @@ Download this nice little script by Matt parnell from [here](http://www.mattpar
 
 and then
 
-
-<blockquote>#mv apt-fast.sh /usr/bin/apt-fasht &amp;&amp; chmod +x /usr/bin/apt-fasht</blockquote>
-
+```bash
+mv apt-fast.sh /usr/bin/apt-fasht && chmod +x /usr/bin/apt-fasht
+```
 
 Give it any fancy name you want and start using it instead of apt-get.
 
@@ -47,23 +47,21 @@ pacman users:
 
 use the following Xfercommand in your /etc/pacman.conf
 
-
-<blockquote>`XferCommand = /usr/bin/axel -n 2 -v -a -o %o %u`</blockquote>
-
+```bash
+`XferCommand = /usr/bin/axel -n 2 -v -a -o %o %u`
+```
 
 emerge users:
 
 add the following line to your /etc/make.conf
 
 
-<blockquote>
 
->     
->     FETCHCOMMAND="/usr/bin/axel -a -o /\${DISTDIR}/\${FILE} \${URI}"
->     RESUMECOMMAND="/usr/bin/axel -a -o /\${DISTDIR}/\${FILE} \${URI}"
-> 
-> 
-</blockquote>
+```bash    
+ FETCHCOMMAND="/usr/bin/axel -a -o /\${DISTDIR}/\${FILE} \${URI}"
+ RESUMECOMMAND="/usr/bin/axel -a -o /\${DISTDIR}/\${FILE} \${URI}"
+```
+ 
 
 
 here are some samples...
