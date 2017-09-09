@@ -1,0 +1,68 @@
+---
+author: nitheeshkl
+comments: true
+date: 2011-05-16 18:26:44+00:00
+layout: post
+link: https://klnitheesh.wordpress.com/2011/05/16/c-vim/
+slug: c-vim
+title: C.vim
+wordpress_id: 47
+categories:
+- Tech
+tags:
+- plugin
+- vim
+---
+
+
+
+[![cVim](http://klnitheesh.files.wordpress.com/2014/06/run-screen-1.png?w=300)](https://klnitheesh.files.wordpress.com/2014/06/run-screen-1.png)
+
+Recently, I was thinking about the way we write c programs. There are certain set of statements and a few other things that we are bound to use again and again. Like the main routine, the headers, the comments...to mention a few. It would be nice if the editor did these redundant tasks. We would code lot faster. Such features are normally provided in the IDEs, but being a linux user I use vim to code c programs. Vim has so many features, i was sure that it would also have this...and I was darn right about it :)
+
+
+
+
+
+
+
+
+'c.vim' is a small plugin for vim that converts it into a c/c++ IDE. Adding this to vim considerably increased my coding speed. It provides insertion of complete statements, code snippets, comments and a few more nice features.
+
+
+
+
+
+
+
+
+Its fairly easy to change the template for the code snippets and the comments. You can also set your personal details like your name to be displayed, your contact etc. You can follow the documentation that is provided with the plugin to customize it to your needs. Once that is done, just take a look at the key combination to perform the actions.
+
+
+
+
+
+
+
+
+Now open a new c file to code as usual, and you'l automatically be greeted with your information (the personal details which you've set in the template file) and also an empty main routine. The cursors is also placed in the appropriate positions so that you can continue to code.
+
+
+
+
+
+
+
+
+All the key combinations begins with '\'. for example, '\cfr' creates a frame comment. There are many more available. Make sure to read the 'c-hotkeys' file that is provided with the documentation. Download the c.vim [here](http://www.vim.org/scripts/script.php?script_id=213)
+
+
+
+
+
+
+
+
+once you get used to it, you'l definitely code a lot more faster and your code will also follow a consistent format.
+
+

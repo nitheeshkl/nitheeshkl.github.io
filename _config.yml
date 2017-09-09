@@ -1,32 +1,52 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Site Info
+title:              "kln's snippets"
+description:        "brief extracts from the world of kln"
+google_verify:       # Put your Google Verification here
+google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: kln
-email: nitheeshkl@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Nitheesh's personal site.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://nitheeshkl.github.io" # the base hostname & protocol for your site
-twitter_username: nitheeshkl
-github_username:  nitheeshkl
+# Author Info
+author_name:        "Nitheesh K L" # Your name here
+author_name_short:  "Nitheesh"
+author_email:       nitheeshkl@gmail.com # Your email here
+author_gravatar:    eca33e4c4234f61ed5ed92d4a8fdb228 # Your Gravatar md5 hash here for logo
+twitter_username:   nitheeshkl # Your Twitter username here
+github_username:    nitheeshkl # Your GitHub username here
 
-# Build settings
-sass:
-    sass_dir: assets/_sass
-include: ['_pages']
+# Site Settings
+baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
+permalink:          /notes/:title # Post permalink
+timezone:           Asia/Kolkata # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            true  # enables support for mathjax - set to false to disable
+
+# Site Build
+highlighter:        rouge
+markdown:           kramdown
 kramdown:
-    input: GFM
-markdown: kramdown
-theme: minima
+    input:          GFM
+sass:
+    style:          :compressed
+
+# Other Params
+include:            [ "robots.txt" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
+gems:
+  - jekyll-sitemap
+
+
+
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"
