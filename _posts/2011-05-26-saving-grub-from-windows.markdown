@@ -38,34 +38,37 @@ this will show the partitioin table. Here is my partition table
 
 3: mount the linux partition on which you want install the grub (sda8 in my case)
 
-    
-    $sudo mount /dev/sda8 /mnt/
-    $sudo mount --bind /dev /mnt/dev
-    $sudo mount --bind /proc /mnt/proc
-    
+```bash    
+    $ sudo mount /dev/sda8 /mnt/
+    $ sudo mount --bind /dev /mnt/dev
+    $ sudo mount --bind /proc /mnt/proc
+```
 
 
 4: Now chroot into this environment
 
-    
-    sudo chroot /mnt
-
+```bash
+   $ sudo chroot /mnt
+```
 
 [optional]if you want to change any default setting like timeout optiions... then look at /etc/default/grub
 
-5: #grub-install /dev/sda
+5: grub install
 
+```bash
+[root#] grub-install /dev/sda
+```
 [ in case of error do #grub-install --recheck /dev/sda ]
 
 6: now unmount and reboot the system.
 
-    
-    #exit
-    $sudo umount /mnt/dev
-    $sudo umount /mnt/proc
-    $sudo umount /mnt
-    $sudo reboot
-    
+```bash
+    [root#] exit
+    $ sudo umount /mnt/dev
+    $ sudo umount /mnt/proc
+    $ sudo umount /mnt
+    $ sudo reboot
+``` 
 
 
 
