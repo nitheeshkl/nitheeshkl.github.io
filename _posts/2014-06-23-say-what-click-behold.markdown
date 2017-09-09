@@ -5,7 +5,7 @@ date: 2014-06-23 03:36:52+00:00
 layout: post
 link: https://klnitheesh.wordpress.com/2014/06/23/say-what-click-behold/
 slug: say-what-click-behold
-title: say what ?...click & behold !
+title: say what ?...click & behold!
 wordpress_id: 106
 categories:
 - fun
@@ -72,31 +72,31 @@ It seems simple now after listing out those three simple steps to get the immers
 For me coding is like being a creator. I get to create new worlds and things in it. Each program I write is like teaching a person to do some work. So I always end up having a sort of conversation while coding. It starts out something like this.
 
 
-<blockquote>_Me: Hi, I'm your creator and this is your new world. Say hello to everyone here._
-_Program: As you say master. "hello world"_
-_Me: That's good. Let's check how you respond._</blockquote>
+> **Me:** _Hi, I'm your creator and this is your new world. Say hello to everyone here._<br/>
+> **Program**: _As you say master. "hello world"_<br/>
+> **Me:** _That's good. Let's check how you respond._<br/>
 
 
 For an app, I check the basics. If the touch is working, orientation changes...etc
 
 
-<blockquote>_Me: Looks good. Now lets get to work shall we ?_
-_prg: sure. what are we going to do first ?_
-_Me: well i'd want you to go and come out of immersive mode properly._
-_prg: that's easy. Here, look. Is this what you wanted ?_
-_Me: Yes perfect. Also, I dont want your title bar showing up._
-_prg: But master, how'll the user know who I am?_
-_Me: Oh dont worry about that. We'll put the name on the screen itself. We want the fullscreen mode you see._
-_prg: Thats fine by me._
-_Me: Now, lets give it another try shall we ?_
-_prg: I'm ready. Lets go._
-_Me: Ah..thats more like it. You look much better now._
-_prg: Thank you master. So whats next ?_
-_Me: Your name is showing up always on the main screen. I want the user to see it only when the user touches the screen. It makes more sense that way. _
-_prg: What do you want me to do when i'm not showing the title on the screen ?_
-_me: yes, yes...we're coming to that. I want you to go and fetch the list of songs and show that list on the screen._
-_prg: Hiding the title is fine, but i dont know how to get the list. Teach me._
-_me: sure..._</blockquote>
+> **Me:** _Looks good. Now lets get to work shall we ?_<br/>
+> **Prg:** _sure. what are we going to do first ?_<br/>
+> **Me:** _well i'd want you to go and come out of immersive mode properly._<br/>
+> **Prg:** _that's easy. Here, look. Is this what you wanted ?_<br/>
+> **Me:** _Yes perfect. Also, I dont want your title bar showing up._<br/>
+> **Prg:** _But master, how'll the user know who I am?_<br/>
+> **Me:** _Oh dont worry about that. We'll put the name on the screen itself. We want the fullscreen mode you see._<br/>
+> **Prg:** _Thats fine by me._<br/>
+> **Me:** _Now, lets give it another try shall we ?_<br/>
+> **Prg:** _I'm ready. Lets go._<br/>
+> **Me:** _Ah..thats more like it. You look much better now._<br/>
+> **Prg:** _Thank you master. So whats next ?_<br/>
+> **Me:** _Your name is showing up always on the main screen. I want the user to see it only when the user touches the screen. It makes more sense that way._<br/>
+> **Prg:** _What do you want me to do when i'm not showing the title on the screen ?_<br/>
+> **Me:** _yes, yes...we're coming to that. I want you to go and fetch the list of songs and show that list on the screen._<br/>
+> **Prg:** _Hiding the title is fine, but i dont know how to get the list. Teach me._<br/>
+> **Me:** _sure..._<br/>
 
 
 and so on...you get the point.
@@ -112,7 +112,8 @@ So after about an hour or so and quite a bit of conversation, I was done with it
 3. Click and hold to fetch the playlist. Will be shown in the background as described above.
 4. E-mail the list to anyone you'd want to.
 5. Will ask to uninstall. Click yes and be done with it.
-[![device-2014-06-23-212952](https://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-212952.png?w=84)   ](https://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-212952.png)[![device-2014-06-23-213025](https://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-213025.png?w=84)](https://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-212952.png) [![device-2014-06-23-213050](https://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-213050.png?w=84)](https://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-213050.png) [![device-2014-06-23-213119](https://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-213119.png?w=84)](https://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-213119.png) [![device-2014-06-23-213100](http://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-213100.png?w=84)](https://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-213100.png) [![device-2014-06-23-213210](http://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-213210.png?w=84)](https://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-213210.png) [![device-2014-06-23-213242](http://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-213242.png?w=84)](https://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-213242.png)
+
+[![device-2014-06-23-212952](https://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-212952.png?w=84) ](https://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-212952.png)[![device-2014-06-23-213025](https://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-213025.png?w=84)](https://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-212952.png) [![device-2014-06-23-213050](https://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-213050.png?w=84)](https://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-213050.png) [![device-2014-06-23-213119](https://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-213119.png?w=84)](https://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-213119.png) [![device-2014-06-23-213100](http://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-213100.png?w=84)](https://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-213100.png) [![device-2014-06-23-213210](http://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-213210.png?w=84)](https://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-213210.png) [![device-2014-06-23-213242](http://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-213242.png?w=84)](https://klnitheesh.files.wordpress.com/2014/06/device-2014-06-23-213242.png)
 
 
 
@@ -125,7 +126,7 @@ So after about an hour or so and quite a bit of conversation, I was done with it
 
 
 
-Some end up asking me, didn't I have any thing better to do instead of this?. Sure, loads in fact. Could have gone out and played, watched a movie, taken a walk outside or slept...but then, writing programs is as much fun too. Sort of like, readers with new books...I code to enjoy & have fun : )
+Some end up asking me, didn't I have any thing better to do instead of this?. Sure, loads in fact. Could have gone out and played, watched a movie, taken a walk outside or slept...but then, writing programs is as much fun too. Sort of like, readers with new books...I code to enjoy & have fun :)
 
 
 
