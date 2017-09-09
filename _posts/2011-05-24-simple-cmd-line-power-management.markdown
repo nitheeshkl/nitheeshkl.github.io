@@ -20,12 +20,12 @@ Just to put the system to sleep i’ve to go to the menu and then select, suspen
 
 So here is the simple way to do the same tasks from the cmd line.
 
-pm : power management. check out the man pages for its various options.
+**pm:** power management. check out the man pages for its various options.
 
-pm-suspend : suspend/sleep the system
+**pm-suspend:** suspend/sleep the system
 
-pm-hibernate : hibernate the system
+**pm-hibernate:** hibernate the system
 
-pm-powersave : set the battery to power save mode
+**pm-powersave:** set the battery to power save mode
 
 using these commands are way more simpler than using the gui :) [provided you are cmdline user]
