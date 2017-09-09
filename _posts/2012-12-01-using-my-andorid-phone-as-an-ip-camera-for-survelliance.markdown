@@ -59,7 +59,7 @@ client:
 
 
 
-    
+```java    
     public class CameraClient { 
         public static void main (String args[]) 
         {// arguments supply message and hostname of destination  
@@ -88,8 +88,7 @@ client:
         }
       }
     } 
-    
-
+```
 
 
 
@@ -97,7 +96,7 @@ Server:
 
 
 
-    
+```java 
     public class CameraServer { 
         public static boolean notify = false;
       public static void main (String args[]) 
@@ -183,13 +182,13 @@ Server:
                 }
             }
     }
-
+```
 
 The server listens on a particular port and for every connection, spawns a thread, give a notification and if "yes" is clicked opens up the video feed in vlc.
 
 The next part was to interface with the proximity sensor on the phone. That's pretty simple and lots of examples on-line like the following code snippet from [http://android-er.blogspot.in/2011/09/monitor-proximity-sensor.html](http://android-er.blogspot.in/2011/09/monitor-proximity-sensor.html)
 
-    
+```java 
     SensorManager mySensorManager;
      Sensor myProximitySensor;
     
@@ -235,8 +234,7 @@ The next part was to interface with the proximity sensor on the phone. That's pr
       }
         };
     }
-    
-
+```
 
 Ha, with that done the only thing left to do was to glue it up all together and put some android specific code and configurations to make the sensor app run in background and send notification on sensor events. Works beautifully now. Although the proximity sensor on the phone ain't that great. May be in time i shall hook up a proper sensor and interface it with the phone. But never mind that, for me my old phone is again useful in a new cool way and I had my cup of joy for a Sunday.
 
