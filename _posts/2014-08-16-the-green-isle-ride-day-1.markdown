@@ -18,9 +18,8 @@ tags:
 - cycling
 ---
 
-<blockquote>Previously: [The Green Isle ride - Day 0](http://nitheeshkl.me/2014/08/16/the-green-isle-ride-day-o/)
-> 
-> </blockquote>
+Previously: **[The Green Isle ride - Day 0]({{site.baseurl}}/notes/the-green-isle-ride-day-o)**
+
 
 We reached the makkandur home stay at around 5:30 am staurday morning. It was still dark. 5 mins walk down the hill from the highway was the homestay. Typical coorg style, secluded and beautiful, but the weather condition was all wet and slushy as expected. There were 5 rooms and we were allotted accordingly. The plan was to get ready, have breakfast there and leave by 7:30am. At this point i realized that unlike jalori, we could leave all our baggage here and go for cycling. You see, in jalori, it was more like camping. You'd have to cycle from one camp to another and couldn’t leave anything behind. So much for travelling light and stuffing everything into one bag!
 

@@ -47,4 +47,4 @@ The evening rains had caused traffic jams across the city due to which the bus a
 By the way, I must tell you about the way our bikes were transported. I was initially speculative about using the canter for transporting them. I mean, any first timer would have the same feeling. I was worried about the components on the bike breaking into pieces as they fell on each other while in the vehicle. But the way they packed our bikes was comforting. They laid a big layer of foam/cusion in between each bike, to the pedals & the derailleur and placed each bike in the opposite direction of the one next to it so that the handles wouldn't touch and come in the way and then were all tied and packed tightly. It was satisfying.
 
 
-<blockquote>Next: [The Green Isle ride – Day 1](http://nitheeshkl.me/2014/08/16/the-green-isle-ride-day-1/)</blockquote>
+Next: **[The Green Isle ride – Day 1]({{site.baseurl}}/notes/the-green-isle-ride-day-1)**
