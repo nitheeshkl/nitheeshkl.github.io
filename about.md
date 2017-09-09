@@ -3,8 +3,13 @@ layout: page
 title: About
 ---
 
-Hello.
+### This site:
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+**[{{site.title}}]({{site.baseurl}}/)** - {{site.description}}.
+The personal space on the web for me and my thoughts.
 
-**Less is more..**
+### Me:
+...still contemplating on a description for myself. will come up with something
+soon! meanwhile, you can find more about me at
+[facebook](https://www.facebook.com/nitheeshkl) &
+[linkedin](https://www.linkedin.com/in/nitheeshkl)
