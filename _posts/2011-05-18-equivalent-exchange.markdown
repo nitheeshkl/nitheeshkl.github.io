@@ -4,7 +4,7 @@ comments: true
 date: 2011-05-18 17:02:13+00:00
 layout: post
 link: https://klnitheesh.wordpress.com/2011/05/18/we-cannot-obtain-anything-without-first-giving/
-slug: we-cannot-obtain-anything-without-first-giving
+slug: equivalent-exchange
 title: equivalent exchange!!
 wordpress_id: 66
 post_format:
