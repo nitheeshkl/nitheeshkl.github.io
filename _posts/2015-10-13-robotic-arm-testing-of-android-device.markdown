@@ -18,7 +18,7 @@ tags:
 - customization
 ---
 
-Brief:
+**Brief:**
 
 
 
@@ -31,7 +31,7 @@ The idea is to create a low-cost usable robotic arm/platform to physically move 
 
 
 
-Need:
+**Need:**
 
 
 The performance analysis & QA groups perform automated testing and running of workloads on android devices to collect data and analyze the device/platform. Workloads for these activities include benchmarks, test suites, custom apks...etc. for different application sub classes comprising of native, userspace, imagery, compute, games, memory & GC, sensors...etc. While most of these workloads are software automated/scripted, some, specifically for the class of games, virtual reality and sensors are complex to automate through software as these application rely on physical movement of the device. Although such motion events can be wedged into the subsystem to obtain the effective readings, the observations confer only the functionality of the features, but not the actual data such as delays, lag, instability or other such variations incurred from an actual device. Therefore the only suitable way of performing such analysis is through physical/hardware automation that actually moves the devices in required motions/directions.
@@ -40,7 +40,7 @@ The performance analysis & QA groups perform automated testing and running of wo
 
 
 
-Usecase:
+**Usecase:**
 
 
 
@@ -64,7 +64,7 @@ consider an example of virtual reality workloads like the Google Cardboard appli
 
 
 
-Existing solutions:
+**Existing solutions:**
 
 
 
@@ -87,7 +87,7 @@ there are several such robotics platforms available. Big players like Google and
 
 
 
-My prototype:
+**My prototype:**
 
 
 
@@ -178,10 +178,8 @@ In the end, after spending $200 and two days, i had this 
 
 
 
- [embed]https://www.youtube.com/watch?v=63n9y7ZWCfM[/embed]
 
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/63n9y7ZWCfM" frameborder="0" allowfullscreen></iframe>
 
 
 
@@ -192,7 +190,7 @@ In the end, after spending $200 and two days, i had this 
 
 
 
-Next plans:
+**Next plans:**
 
 
 
@@ -212,7 +210,7 @@ The solution should be such that, given the device screen size and placed at a f
 
 
 
-Other hacks:
+**Other hacks:**
 
 
 
