@@ -35,8 +35,8 @@ The plugin comes bundled by default with the activemq package (at least with v
 
 To use the plugin, simply add the following into your activemq.xml conf file. (This by default uses "/" as the destination path separator)
 
-    
-    <code> <broker>  
+```xml 
+    <broker>  
        .......  
        <plugins>  
           ........  
@@ -44,7 +44,7 @@ To use the plugin, simply add the following into your activemq.xml conf file. (T
        </plugins>  
      </broker>  
     </code>
-
+```
 
 **Extra info**
 
