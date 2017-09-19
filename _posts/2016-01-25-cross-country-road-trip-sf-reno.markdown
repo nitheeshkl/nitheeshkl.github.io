@@ -1,7 +1,7 @@
 ---
 author: nitheeshkl
 comments: true
-date: 2016-01-24 10:51:05+00:00
+date: 2016-01-25 10:51:05+00:00
 excerpt: I was touching the Pacific Ocean now and in just a few more days, I'd be
   touching the Atlantic Ocean all the way across the country.
 layout: post
