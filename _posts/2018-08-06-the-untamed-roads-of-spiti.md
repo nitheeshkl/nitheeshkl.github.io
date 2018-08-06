@@ -1,5 +1,5 @@
 ---
-title: 'The Untamed Roads of Spiti'
+title: 'The Untamed Roads Of Spiti'
 updated: 2018-08-06 09:15:20+00:00
 slug: spiti-ride
 author: nitheeshkl
@@ -31,3 +31,7 @@ travelogue - [http://phalgun.in/spiti](http://phalgun.in/spiti)
 <a href="{{ site.baseurl }}/travelogues/spiti.pdf">
 ![Spiti Cover]({{ site.baseurl }}/assets/imgs/spiti/spiti_cover.png){: .center-image }
 </a>
+
+### Other travel archives:
+
+- [Goechala Trek](goechala)
