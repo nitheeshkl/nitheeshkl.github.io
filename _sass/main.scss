@@ -333,6 +333,11 @@ section {
     }
   }
 }
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
 @keyframes bounce {0% {
     transform: translate3d( 0, -1000px, 0 );
   }
