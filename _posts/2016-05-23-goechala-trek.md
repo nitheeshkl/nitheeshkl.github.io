@@ -33,3 +33,4 @@ personal view of Mt.Kanchenjunga, the highest peak in India and the third highes
 ### Other travel archives:
 
 * [The Untamed Roads Of Spiti](spiti-ride)
+* [Gaumukh and Dayara Bugyal trek](gaumukh-trek)
