@@ -26,7 +26,11 @@ personal view of Mt.Kanchenjunga, the highest peak in India and the third highes
  I've tried to capture some of the moments from the expedition to serve as a personal memoir. Here's the link to 
  Phalgun's album that complements my content - [http://phalgun.in/sikkim](http://phalgun.in/sikkim)
 
+<a href="{{ site.baseurl }}/travelogues/goechala.pdf">
+![Goechala cover]({{ site.baseurl }}/assets/imgs/goechala/goechala.png){:.center-image}
+</a>
 
 ### Other travel archives:
 
 * [The Untamed Roads Of Spiti](spiti-ride)
+* [Gaumukh and Dayara Bugyal trek](gaumukh-trek)
