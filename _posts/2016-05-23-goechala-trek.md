@@ -20,7 +20,7 @@ tags:
  
 [Goechala Trek]({{ site.baseurl }}/travelogues/goechala.pdf) - a travelogue by Nitheesh
 
-In early May of 2016, I and Phalgun undertook the trek to Goechala pass in the nort west Sikkim (eastern Himalayas).
+In early May of 2016, Phalgun and I undertook the trek to Goechala pass in the nort west Sikkim (eastern Himalayas).
  It was a 10 days trekking expedition with India Hikes, reaching an altitude of 16,500 ft to see an upclose and 
 personal view of Mt.Kanchenjunga, the highest peak in India and the third highest peak in the world.
  I've tried to capture some of the moments from the expedition to serve as a personal memoir. Here's the link to 
