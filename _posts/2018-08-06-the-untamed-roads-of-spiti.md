@@ -20,7 +20,7 @@ tags:
 
 [The Untamed Roads Of Spiti - a travelogue by Nitheesh]({{ site.baseurl }}/travelogues/spiti.pdf)
 
-In May of 2018, I and Phalgun ventured onto a five days bike ride in the Spiti valley of Himachal Pradesh, India.
+In May of 2018, Phalgun and I ventured onto a five days bike ride in the Spiti valley of Himachal Pradesh, India.
 Hailing from south India and first time at such a biking adventure, we had a series of unexpected, invigorating, and
 breathtaking experiences. Picturesque valleys, gushing rivers, numerous water crossings, heavy off-roading;
 from being stranded to helping the stranded, age-old cultures, colorful landscapes and plenty more. I’ve tried to capture
