@@ -5,7 +5,7 @@ title: About
 
 ### This site:
 
-**[{{site.title}}]({{site.baseurl}}/)** - {{site.description}}.
+**[{{site.title}}]({{site.baseurl}}/blogs)** - {{site.description}}.
 The personal space on the web for me and my thoughts.
 
 ### Me:
