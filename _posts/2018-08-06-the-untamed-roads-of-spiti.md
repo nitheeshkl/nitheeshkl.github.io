@@ -18,7 +18,7 @@ tags:
 - himalayas
 ---
 
-[The Untamed Roads Of Spiti - a travelogue by Nitheesh]({{ site.baseurl }}/travelogues/spiti.pdf)
+[The Untamed Roads Of Spiti - a travelogue by Nitheesh](https://drive.google.com/file/d/1kSGJMztc1_hiuDlxGljsdMV3F4qNClYa/view?usp=sharing)
 
 In May of 2018, Phalgun and I ventured onto a five day bike ride in the Spiti valley of Himachal Pradesh, India.
 Hailing from south India and first time at such a biking adventure, we had a series of unexpected, invigorating, and
@@ -28,7 +28,7 @@ these along with some subtle details here, which I think are missed in most vide
 travelogue serves as a guide to your Spiti adventures! Here’s Phalgun’s photo album that complements this
 travelogue - [http://phalgun.in/spiti](http://phalgun.in/spiti)
 
-<a href="{{ site.baseurl }}/travelogues/spiti.pdf">
+<a href="https://drive.google.com/file/d/1kSGJMztc1_hiuDlxGljsdMV3F4qNClYa/view?usp=sharing">
 ![Spiti Cover]({{ site.baseurl }}/assets/imgs/spiti/spiti_cover.png){: .center-image }
 </a>
 
